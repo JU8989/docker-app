@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Docker!
+          Learn Docker with elastic beanstalk
         </a>
       </header>
     </div>
